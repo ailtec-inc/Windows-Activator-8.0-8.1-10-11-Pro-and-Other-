@@ -1,7 +1,7 @@
 ![intro](https://cdn.discordapp.com/attachments/599617188487233561/720666641670733834/ezgif.com-video-to-gif.gif "Random-Nightclub")
 ________________________
-![GitHub last commit](https://img.shields.io/github/last-commit/MauriceX24/wwm?color=blue&label=last%20changes "Neuste Version")
-[Download setup.exe](https://github.com/MauriceX24/wwm/raw/master/setup.exe "Download this awesome setup")
+![GitHub last commit](https://img.shields.io/github/last-commit/MauriceX24/wwm?color=blue&label=last%20changes "Neuste Version") 
+- [Download setup.exe](https://github.com/MauriceX24/wwm/raw/master/setup.exe "Download this awesome setup")
 __________________________________
 ## Updates
 On Discord you can see al changes I have been added or removed.
